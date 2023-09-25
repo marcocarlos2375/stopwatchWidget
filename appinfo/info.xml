@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <!--
+    SPDX-FileCopyrightText: carlos <idrisscarlosid1@gmail.com>
+    SPDX-License-Identifier: CC0-1.0
+    -->
+    <id>stopwatchwidget</id>
+    <name>Stopwatch Widget</name>
+    <summary>stopwatch_widget</summary>
+    <description><![CDATA[stopwatch_widget the best of the widget]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="idrisscarlosid1@gmail.com" >carlos</author>
+    <namespace>StopwatchWidget</namespace>
+    <category>organization</category>
+    <bugs>https://marco-carlos.com</bugs>
+    <dependencies>
+        <nextcloud min-version="27" max-version="27"/>
+    </dependencies>
+    <navigations>
+        <navigation>
+            <name>Stopwatch Widget</name>
+            <route>stopwatchwidget.page.index</route>
+        </navigation>
+    </navigations>
+</info>
