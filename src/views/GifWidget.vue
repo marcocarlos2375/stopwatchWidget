@@ -71,28 +71,5 @@ export default {
 </script>
 
 <style scoped lang="scss">
-div {
-  text-align: center;
-  font-family: Arial, sans-serif;
-}
-
-h1 {
-  font-size: 2rem;
-  margin: 20px 0;
-}
-
-button {
-  font-size: 1rem;
-  padding: 10px 20px;
-  margin: 5px;
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-button:hover {
-  background-color: #0056b3;
-}
+//ok
 </style>
