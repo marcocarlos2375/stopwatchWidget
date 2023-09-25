@@ -17,8 +17,6 @@
 </template>
 
 <script>
-import FolderIcon from "vue-material-design-icons/Folder.vue";
-
 import NcDashboardWidget from "@nextcloud/vue/dist/Components/NcDashboardWidget.js";
 import NcEmptyContent from "@nextcloud/vue/dist/Components/NcEmptyContent.js";
 
