@@ -1,7 +1,7 @@
 <?php
 
 namespace OCA\stopwatchwidget\AppInfo;
-use OCA\CatGifsDashboard\Dashboard\VueWidget;
+use OCA\stopwatchwidget\Dashboard\VueWidget;
 use OCA\stopwatchwidget\Dashboard\SimpleWidget;
 use OCP\AppFramework\App;
 use OCP\AppFramework\Bootstrap\IRegistrationContext;
